@@ -1,5 +1,22 @@
-{"0":{"heading":"Android core","url":""},
- "1":{"heading":"User interface","url":""},
- "2":{"heading":"Data management","url":""},
- "3":{"heading":"Debugging","url":""},
- "4":{"heading":"Testing","url":""},}
+{
+  "0": {
+    "heading": "Android core",
+    "url": ""
+  },
+  "1": {
+    "heading": "User interface",
+    "url": ""
+  },
+  "2": {
+    "heading": "Data management",
+    "url": ""
+  },
+  "3": {
+    "heading": "Debugging",
+    "url": ""
+  },
+  "4": {
+    "heading": "Testing",
+    "url": ""
+  }
+}
