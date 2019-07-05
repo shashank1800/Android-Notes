@@ -1,8 +1,26 @@
 {
-"0":"Toasts",
-"1":"Snackbar",
-"2":"Localize your app",
-"3":"Application fundamentals",
-"4":"Notifications",
-"5":"JobScheduler"
+  "0": {
+    "heading": "Toast",
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/fullPageContent.json"
+  },
+  "1": {
+    "heading": "Snackbar",
+    "url": ""
+  },
+  "2": {
+    "heading": "Localize your app",
+    "url": ""
+  },
+  "3": {
+    "heading": "Application fundamentals",
+    "url": ""
+  },
+  "4": {
+    "heading": "Notifications",
+    "url": ""
+  },
+  "5": {
+    "heading": "JobSceduler",
+    "url": ""
+  }
 }
