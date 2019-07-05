@@ -1,12 +1,7 @@
 {
-"0":{"heading":"Android core",
-     "url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/PageContent.json"},
-"1":{"heading":"User interface",
-     "url":""},
-"2":{"heading":"Data management",
-     "url":""},
-"3":{"heading":"Debugging",
-     "url":""},
-"4":{"heading":"Testing",
-     "url":""},
+"0":["Android core","https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/PageContent.json"],
+"1":["User interface"," "],
+"2":["Data management"," "},
+"3":["Debugging"," "],
+"4":["Testing"," "],
 }
