@@ -1,18 +1,18 @@
 {
   "0": {
-    "heading": "Android core",
+    "heading": "Android Core",
     "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/PageContent.json",
     "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/android_core.jpg",
     "background":"#32327c"
   },
   "1": {
-    "heading": "User interface",
+    "heading": "User Interface",
     "url": "",
     "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.png",
     "background":"#355acd"
   },
   "2": {
-    "heading": "Data management",
+    "heading": "Data Management",
     "url": "",
     "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/data_management.jpg",
     "background":"#b2dffe"
