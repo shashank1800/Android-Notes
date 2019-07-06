@@ -1,0 +1,5 @@
+ If a simple text message isn't enough, you can create a customized layout for your toast notification. To create a custom layout, define a View layout, in XML or in your application code, and pass the root View object to the setView(View) method.
+
+The following snippet contains a customized layout for a toast notification (saved as layout/custom_toast.xml).
+
+Notice that the ID of the LinearLayout element is "custom_toast_container". You must use this ID and the ID of the XML layout file "custom_toast" to inflate the layout, as shown
