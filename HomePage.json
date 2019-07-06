@@ -3,12 +3,12 @@
     "heading": "Android core",
     "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/PageContent.json",
     "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
-    "background":"#355acd"
+    "background":"#041e49"
   },
   "1": {
     "heading": "User interface",
     "url": "",
-    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
+    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/android_core.png",
     "background":"#355acd"
   },
   "2": {
