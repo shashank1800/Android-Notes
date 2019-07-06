@@ -1,12 +1,12 @@
 {
   "0":{
     "heading":"Toasts overview",
-    "content":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/toast_1.txt",
+    "content":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/content/content_1.txt",
     "rawData":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/images/toast.png"
   },
   "1":{
     "heading":"The Basics",
-    "content":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/toast_2.txt",
+    "content":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/content/content_2.txt",
     "rawData":null
   }
 }
