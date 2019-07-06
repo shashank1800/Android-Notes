@@ -1,22 +1,32 @@
 {
   "0": {
     "heading": "Android core",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/PageContent.json"
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/PageContent.json",
+    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
+    "background":"#355acd"
   },
   "1": {
     "heading": "User interface",
-    "url": ""
+    "url": "",
+    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
+    "background":"#355acd"
   },
   "2": {
     "heading": "Data management",
-    "url": ""
+    "url": "",
+    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
+    "background":"#355acd"
   },
   "3": {
     "heading": "Debugging",
-    "url": ""
+    "url": "",
+    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
+    "background":"#355acd"
   },
   "4": {
     "heading": "Testing",
-    "url": ""
+    "url": "",
+    "icon_url":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/images/user_interface.jpg",
+    "background":"#355acd"
   }
 }
