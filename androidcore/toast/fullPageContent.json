@@ -8,5 +8,15 @@
     "heading":"The Basics",
     "content":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/content/content_2.txt",
     "rawData":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/raw_data/raw_data_1.txt"
+  },
+  "2":{
+    "heading":"Positioning your Toast",
+    "content":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/content/content_3.txt",
+    "rawData":"https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/raw_data/raw_data_2.txt"
+  },
+  "3":{
+    "heading":"Creating a Custom Toast View",
+    "content":"",
+    "rawData":""
   }
 }
