@@ -1,0 +1,4 @@
+It is good practice to use the Android resource framework to separate the localized aspects of your app as much as possible from the core Java-based functionality:
+
+    You can put most or all of the contents of your app's user interface into resource files, as described in this document and in Providing Resources.
+    The behavior of the user interface, on the other hand, is driven by your Java-based code. For example, if users input data that needs to be formatted or sorted differently depending on locale, then you would use the Java programming language to handle the data programmatically.
