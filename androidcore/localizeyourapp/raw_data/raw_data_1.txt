@@ -1,0 +1,5 @@
+res/drawable/(required directory holding at least one graphic file, for the app's icon on Google Play)
+res/layout/ (required directory holding an XML file that defines the default layout)
+res/anim/ (required if you have any res/anim-<qualifiers> folders)
+res/xml/ (required if you have any res/xml-<qualifiers> folders)
+res/raw/ (required if you have any res/raw-<qualifiers> folders)
