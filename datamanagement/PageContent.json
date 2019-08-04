@@ -1,0 +1,26 @@
+{
+  "0": {
+    "heading": "Shared preferences",
+    "url": ""
+  },
+  "1": {
+    "heading": "Room, LiveData and ViewModel",
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+  },
+  "2": {
+    "heading": "Repository",
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+  },
+  "3": {
+    "heading": "Drawables, styles, and themes",
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+  },
+  "4": {
+    "heading": "App settings",
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+  },
+  "5": {
+    "heading": "ViewModel and ViewModelFactory",
+    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+  }
+}
