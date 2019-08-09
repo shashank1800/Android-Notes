@@ -1,54 +1,23 @@
 {
-  "0": {
-    "heading": "Build a responsive UI with ConstraintLayout",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/toast/fullPageContent.json"
-  },
+  
   "1": {
     "heading": "Create a list with RecyclerView",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+    "url": ""
   },
   "2": {
     "heading": "Create a navigation drawer",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "3": {
-    "heading": "Custom view components",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "4": {
-    "heading": "Build more accessible custom views",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "5": {
-    "heading": "Styles and themes",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "6": {
-    "heading": "setContentDescription()",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "7": {
-    "heading": "Activities and intents",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "8": {
-    "heading": "RecyclerView",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+    "url": ""
   },
   "9": {
     "heading": "Menus and pickers",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
-  },
-  "10": {
-    "heading": "User navigation",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+    "url": ""
   },
   "11": {
     "heading": "Lifecycles",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+    "url": ""
   },
   "12": {
     "heading": "Add user interactivity",
-    "url": "https://raw.githubusercontent.com/shashank1800/Android-Notes/master/androidcore/snackbar/fullPageContent.json"
+    "url": ""
   }
 }
