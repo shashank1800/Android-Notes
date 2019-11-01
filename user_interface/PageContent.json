@@ -1,22 +1,53 @@
 {
-  
   "0": {
-    "heading": "Create a list with RecyclerView",
+    "heading": "Build a responsive UI with ConstraintLayout",
     "url": ""
   },
   "1": {
-    "heading": "Create a navigation drawer",
+    "heading": "Create a list with RecyclerView",
     "url": ""
   },
   "2": {
-    "heading": "Menus and pickers",
+    "heading": "Create a navigation drawer",
     "url": ""
   },
   "3": {
-    "heading": "Lifecycles",
+    "heading": "Custom view components",
     "url": ""
   },
   "4": {
+    "heading": "Build more accessible custom views",
+    "url": ""
+  },
+  "5": {
+    "heading": "Styles and themes",
+    "url": ""
+  },
+  "6": {
+    "heading": "setContentDescription()",
+    "url": ""
+  },
+  "7": {
+    "heading": "Activities and intents",
+    "url": ""
+  },
+  "8": {
+    "heading": "RecyclerView",
+    "url": ""
+  },
+  "9": {
+    "heading": "Menus and pickers",
+    "url": ""
+  },
+  "10": {
+    "heading": "User navigation",
+    "url": ""
+  },
+  "11": {
+    "heading": "Lifecycles",
+    "url": ""
+  },
+  "12": {
     "heading": "Add user interactivity",
     "url": ""
   }
